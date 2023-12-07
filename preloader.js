@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://ionesio-Filho.github.io/preloaderJs/imagem.svg.svg';
+svgImage.src = 'https://ionesio-Filho.github.io/preloaderJs/icons8-círculo-de-carga.gif';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
